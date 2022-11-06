@@ -3,6 +3,8 @@
 
 <h1 align="center">Hi 👋, I'm MD Imteyaz</h1>
 <h3 align="center">A passionate data scientist</h3>
+<img align="right" alt="coding" width="400"src="https://animation data scientist gif - Google Search">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imteyaz5161&label=Profile%20views&color=0e75b6&style=flat" alt="imteyaz5161" /> </p>
 
