@@ -1,7 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQF-YdClTtUhMg/profile-displaybackgroundimage-shrink_350_1400/0?e=1609372800&v=beta&t=6E5tCS27PQAir7y2vnMPjAmQe85xrTOIVUQT1A72gC0](https://imteyaz5161.github.io)
-
-
-
+[![MasterHead](https://i0.wp.com/codevita.live/wp-content/uploads/2022/01/program.gif?resize=750%2C563&ssl=1)](https://imteyaz5161.github.io)
 <h1 align="center">Hi 👋, I'm MD Imteyaz</h1>
 <h3 align="center">A passionate data scientist</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/68591816/200173094-e6e60180-1bf8-45cf-893d-1f9de709a986.png">
