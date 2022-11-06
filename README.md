@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm MD Imteyaz</h1>
 <h3 align="center">A passionate data scientist</h3>
-<img align="right" alt="coding" width="400" src="https://what-does-a-data-scientist-in-finance-do](https://user-images.githubusercontent.com/68591816/200173094-e6e60180-1bf8-45cf-893d-1f9de709a986.png)">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/68591816/200173094-e6e60180-1bf8-45cf-893d-1f9de709a986.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imteyaz5161&label=Profile%20views&color=0e75b6&style=flat" alt="imteyaz5161" /> </p>
 
