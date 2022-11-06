@@ -1,9 +1,7 @@
-
-
-
+[![MasterHead](http://https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.springboard.com%2Fblog%2Fwp-content%2Fuploads%2F2020%2F07%2Fwhat-does-a-data-scientist-in-finance-do.png&imgrefurl=https%3A%2F%2Fwww.springboard.com%2Fblog%2Fdata-science%2Ffinance-industry-jobs%2F&tbnid=xSyxvurGrvgxrM&vet=12ahUKEwjOxcWI-Zf7AhW0T2wGHbciDaQQxiAoB3oECAAQJQ..i&docid=oGkCUxuRRv7-VM&w=800&h=533&itg=1&q=animation%20data%20scientist%20gif&ved=2ahUKEwjOxcWI-Zf7AhW0T2wGHbciDaQQxiAoB3oECAAQJQ)](https://imteyaz5161.io)
 <h1 align="center">Hi 👋, I'm MD Imteyaz</h1>
 <h3 align="center">A passionate data scientist</h3>
-<img align="right" alt="coding" width="400"src="https://animation data scientist gif - Google Search">
+<img align="right" alt="coding" width="400"src="https://https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.springboard.com%2Fblog%2Fwp-content%2Fuploads%2F2020%2F07%2Fwhat-does-a-data-scientist-in-finance-do.png&imgrefurl=https%3A%2F%2Fwww.springboard.com%2Fblog%2Fdata-science%2Ffinance-industry-jobs%2F&tbnid=xSyxvurGrvgxrM&vet=12ahUKEwjOxcWI-Zf7AhW0T2wGHbciDaQQxiAoB3oECAAQJQ..i&docid=oGkCUxuRRv7-VM&w=800&h=533&itg=1&q=animation%20data%20scientist%20gif&ved=2ahUKEwjOxcWI-Zf7AhW0T2wGHbciDaQQxiAoB3oECAAQJQ">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imteyaz5161&label=Profile%20views&color=0e75b6&style=flat" alt="imteyaz5161" /> </p>
