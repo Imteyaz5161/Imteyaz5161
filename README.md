@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imteyaz5161&label=Profile%20views&color=0e75b6&style=flat" alt="imteyaz5161" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Data Science BootCamp 2.0**
+- 🌱 **Full Stack Data Science BootCamp 2.0**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Imteyaz5161](https://github.com/Imteyaz5161)
 
